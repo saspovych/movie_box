@@ -1,19 +1,11 @@
-# movie_box
+# Movie Box
 
-## Project setup
-```
-npm install
-```
+## Movie Box - это отзывчивое Vue приложение, которое загружает данные через API The Movie Database (TMDb).
+![](Demo.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Установка
+1. Клонировать репозиторий: `git@github.com:saspovych/movie_box.git`
+2. `cd movie_box`
+2. Установить пакеты: `npm install`
+3. Запустить проект: `npm run serve`
+4. Открыть в браузере по адресу: `http://localhost:8080`
