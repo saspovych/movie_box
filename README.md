@@ -1,6 +1,6 @@
 # Movie Box
 
-## Movie Box - это отзывчивое Vue приложение, которое загружает данные через API The Movie Database (TMDb).
+## Movie Box - это Vue приложение, которое загружает данные через API The Movie Database (TMDb).
 ![](Demo.png)
 
 ## Установка
